@@ -1,0 +1,174 @@
+@media (min-width : 1102px)
+{
+  body {
+    text-align: center;
+    background-color: #011F3F;
+  }
+  
+  #level-title {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 3rem;
+    margin:  5%;
+    color: #FEF2BF;
+  }
+  
+  .container {
+    display: block;
+    width: 50%;
+    margin: auto;
+  
+  }
+  
+  .btn {
+    margin: 25px;
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    border-radius: 20%;
+  }
+  
+  .game-over {
+    background-color: red;
+    opacity: 0.8;
+  }
+  
+  .red {
+    background-color: red;
+  }
+  
+  .green {
+    background-color: green;
+  }
+  
+  .blue {
+    background-color: blue;
+  }
+  
+  .yellow {
+    background-color: yellow;
+  }
+  
+  .pressed {
+    box-shadow: 0 0 20px white;
+    background-color: grey;
+  }
+  #button{
+    width: 50%;
+    margin-left: 25%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  li{
+    text-align: left;
+    margin: 20px;
+    font-size: 20px;
+  }
+  footer{
+    margin-top: 100px;
+    font-size: 40px;
+  }
+  
+}
+
+@media (max-width : 1102px)
+{
+  body {
+    text-align: center;
+    background-color: #011F3F;
+  }
+  
+  #level-title {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 3rem;
+    margin:  5%;
+    color: #FEF2BF;
+  }
+  
+  .container {
+    display: grid;
+    width: 50%;
+    grid-template-columns: 220px 220px;
+    grid-template-rows: 220px 220px;
+    margin-left: 30%;
+    max-width: 440px;
+    
+  
+  }
+  
+  .btn {
+    display: inline-block;
+    height: 180px;
+    width: 180px;
+    border: 10px solid black;
+    border-radius: 20%;
+    row-gap: 0px;
+  }
+  
+  .game-over {
+    background-color: red;
+    opacity: 0.8;
+  }
+  
+  .red {
+    background-color: red;
+  }
+  
+  .green {
+    background-color: green;
+  }
+  
+  .blue {
+    background-color: blue;
+  }
+  
+  .yellow {
+    background-color: yellow;
+  }
+  
+  .pressed {
+    box-shadow: 0 0 20px white;
+    background-color: grey;
+  }
+
+  #button{
+    width: 440px;
+    margin-left: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  
+li{
+  font-size: 10px;
+  text-align: left;
+  margin: 10px;
+}
+footer{
+  margin-top: 200px;
+}
+  
+
+}
+
+#startbutton{
+  width: 100px;
+  height: 50px;
+  border-radius: 10px;
+  font-size: 20px;
+  font-weight: 700;
+  background-color: blanchedalmond;
+  margin-bottom: 10%;
+}
+
+.whitecolor{
+  color: #FEF2BF;
+}
+
+
+
+
+
